@@ -1,0 +1,13 @@
+H:\POO\AppMenu\AppMenu\bin\Debug\AppMenu.exe.config
+H:\POO\AppMenu\AppMenu\bin\Debug\AppMenu.exe
+H:\POO\AppMenu\AppMenu\bin\Debug\AppMenu.pdb
+H:\POO\AppMenu\AppMenu\obj\Debug\AppMenu.csproj.AssemblyReference.cache
+H:\POO\AppMenu\AppMenu\obj\Debug\AppMenu.csproj.SuggestedBindingRedirects.cache
+H:\POO\AppMenu\AppMenu\obj\Debug\AppMenu.Frmazul.resources
+H:\POO\AppMenu\AppMenu\obj\Debug\AppMenu.Frmlaranja.resources
+H:\POO\AppMenu\AppMenu\obj\Debug\AppMenu.FrmVermelho.resources
+H:\POO\AppMenu\AppMenu\obj\Debug\AppMenu.Properties.Resources.resources
+H:\POO\AppMenu\AppMenu\obj\Debug\AppMenu.csproj.GenerateResource.cache
+H:\POO\AppMenu\AppMenu\obj\Debug\AppMenu.csproj.CoreCompileInputs.cache
+H:\POO\AppMenu\AppMenu\obj\Debug\AppMenu.exe
+H:\POO\AppMenu\AppMenu\obj\Debug\AppMenu.pdb
